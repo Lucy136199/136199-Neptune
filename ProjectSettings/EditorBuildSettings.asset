@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Starting.unity
+    guid: 77b898408f6fb46e396d779cb1fbc9ab
+  - enabled: 1
+    path: Assets/Scenes/Stage1.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Stage2.unity
+    guid: d313b20aedeac4249821a6e1a716d817
+  - enabled: 1
+    path: Assets/Scenes/Stage3.unity
+    guid: de171c4a7648f42f8a26ec391ed58a26
+  - enabled: 1
+    path: Assets/Scenes/Stage4.unity
+    guid: a5976bdc25cdb436b93eb0991f338848
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: c05630b188a4643dabdceaa51572c792
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 4df24702aa73f42b6943aa9707fd6472
+  - enabled: 1
+    path: Assets/Scenes/EarthEnding.unity
+    guid: 282797ca116f146c0b20767bc5fa60a3
+  - enabled: 1
+    path: Assets/Scenes/EridEnding.unity
+    guid: b0d91175526254e7d9a321768196ea26
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
